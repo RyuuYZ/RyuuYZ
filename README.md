@@ -68,16 +68,6 @@ currently_learning:
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RyuuYZ&theme=tokyo-night" />
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">

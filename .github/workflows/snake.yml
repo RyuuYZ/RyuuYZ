@@ -23,8 +23,8 @@ jobs:
         with:
           github_user_name: RyuuYZ
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%2339d353&color_dots=%23161b22,%230e4429,%23006d32,%2326a641,%2339d353
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%2339d353&color_dots=%23161b22,%230e4429,%23006d32,%2326a641,%2339d353
+            dist/github-contribution-grid-snake.svg?color_snake=%2338bdf8&color_dots=%230f172a,%230c4a6e,%230369a1,%230ea5e9,%2338bdf8
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%2338bdf8&color_dots=%230f172a,%230c4a6e,%230369a1,%230ea5e9,%2338bdf8
 
       - name: Push Snake
         uses: crazy-max/ghaction-github-pages@v4
