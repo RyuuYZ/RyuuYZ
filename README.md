@@ -61,11 +61,15 @@ fun_fact: "I enjoy turning random ideas into actual projects 🚀"
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyuuYZ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RyuuYZ&show_icons=true&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuuYZ&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuuYZ&layout=compact&theme=tokyonight" />
 
 </div>
 
@@ -85,7 +89,7 @@ fun_fact: "I enjoy turning random ideas into actual projects 🚀"
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RyuuYZ&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RyuuYZ&theme=tokyo-night" />
 
 </div>
 
@@ -95,17 +99,30 @@ fun_fact: "I enjoy turning random ideas into actual projects 🚀"
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RyuuYZ/RyuuYZ/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/RyuuYZ/RyuuYZ/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/RyuuYZ/RyuuYZ/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/RyuuYZ/RyuuYZ/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RyuuYZ&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=RyuuYZ&theme=tokyonight&no-frame=true&no-bg=true" />
 
 </div>
 
