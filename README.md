@@ -35,7 +35,6 @@ currently_learning:
   - JavaScript
   - MySQL
 
-fun_fact: "I enjoy turning random ideas into actual projects 🚀"
 ```
 
 ---
@@ -59,20 +58,6 @@ fun_fact: "I enjoy turning random ideas into actual projects 🚀"
 </p>
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RyuuYZ&show_icons=true&theme=tokyonight" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuuYZ&layout=compact&theme=tokyonight" />
-
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
@@ -93,57 +78,25 @@ fun_fact: "I enjoy turning random ideas into actual projects 🚀"
 
 ---
 
-🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RyuuYZ/RyuuYZ/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/RyuuYZ/RyuuYZ/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/RyuuYZ/RyuuYZ/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RyuuYZ&theme=tokyonight&no-frame=true&no-bg=true" />
-
-</div>
-
----
-
-## 🎮 Beyond Coding
-
-```text
-🎮 Gaming
-🎨 Drawing
-🌌 Anime
-💻 Programming
-🎧 Music
-🚀 Creating random stuff
-```
-
-> *"Code. Create. Break. Fix. Repeat."* ⚡
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/RyuuYZ">
-<img src="https://img.shields.io/badge/GitHub-RyuuYZ-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://github.com/RyuuYZ">
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-8A2BE2?style=for-the-badge&logo=firefox"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
 ### ⭐ Thanks for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer"/>
