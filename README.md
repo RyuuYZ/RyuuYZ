@@ -88,10 +88,16 @@ currently_learning:
     srcset="https://raw.githubusercontent.com/RyuuYZ/RyuuYZ/output/github-contribution-grid-snake-dark.svg"
   />
 
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/RyuuYZ/RyuuYZ/output/github-contribution-grid-snake.svg"
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/RyuuYZ/RyuuYZ/output/github-contribution-grid-snake.svg"
   />
+
+  <img
+    src="https://raw.githubusercontent.com/RyuuYZ/RyuuYZ/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+
 </picture>
 
 </div>
